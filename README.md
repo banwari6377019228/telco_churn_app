@@ -58,7 +58,7 @@ python app.py
 
 
 
-## 📸 Screenshots
+ 📸 Screenshots
 | Input Form                      | Prediction Result               |
 |----------------------------------|----------------------------------|
 | ![Input Form](image\form1.png,image\form2.png) | ![Prediction](image\out.png) |
@@ -66,14 +66,14 @@ python app.py
 
 
 
-## 📊 Dataset Used
+📊 Dataset Used
 
 - **Source:** [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 
 
 
-## 🙋‍♂️ Author
+🙋‍♂️ Author
 
 Made with ❤️ by **Banwari Patidar**
 
